@@ -1,0 +1,14 @@
+
+function now() { [native code] }:[object Object] POST: /api/users
+
+function now() { [native code] }:[object Object] GET: /api/users
+
+function now() { [native code] }:[object Object] GET: /api/users
+
+function now() { [native code] }:[object Object] GET: /api/user
+
+function now() { [native code] }:[object Object] POST: /api/users
+
+function now() { [native code] }:[object Object] GET: /api/users/66b5e87cc9d4ef55fb52efae
+
+function now() { [native code] }:[object Object] DELETE: /api/users/66b5e87cc9d4ef55fb52efae
